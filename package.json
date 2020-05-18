@@ -26,7 +26,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/styled-components/vue-styled-components.git"
+    "url": "git+https://github.com/emileharmel/vue-styled-components.git"
   },
   "keywords": [
     "vue",
@@ -34,7 +34,7 @@
     "css-in-js"
   ],
   "dependencies": {
-    "glamor": "^2.20.40",
+    "glamor": "latest",
     "inline-style-prefixer": "^6.0.0",
     "lodash.isplainobject": "^4.0.6",
     "lodash.zipobject": "^4.1.3",
